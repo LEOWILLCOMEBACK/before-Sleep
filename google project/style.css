@@ -1,0 +1,53 @@
+
+
+button
+
+
+{color: rgb(16, 16, 52);}
+
+body {background-color:rgb(21, 12, 19);}
+
+header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+header > p
+{
+padding-right: 10px;
+
+}
+
+body > p
+
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Buttons
+{
+    display: flex;
+flex-direction: row;
+justify-content: center;}
+
+.warning
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p
+{color: aliceblue;}
+label {
+    background-color: rgb(254, 0, 237);
+    color: rgb(254, 254, 254);
+    font-weight: initial;
+    padding: 4px;
+    text-transform: uppercase;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+  }
